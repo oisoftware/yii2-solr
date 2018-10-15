@@ -1,13 +1,13 @@
 {
-    "name": "sammaye/yii2-solr",
+    "name": "oisoftware/yii2-solr",
     "description": "Solr plugin for the Yii2 framework built ontop of Solarium",
     "type": "yii2-extension",
-    "keywords": ["sammaye", "yii2", "extension", "yii2-extension", "Yii2 Extension", "solr", "solarium"],
+    "keywords": ["oisoftware", "yii2", "extension", "yii2-extension", "Yii2 Extension", "solr", "solarium"],
     "license": "BSD-3-Clause",
     "authors": [
         {
-            "name": "Sammaye",
-            "homepage": "http://sammaye.wordpress.com"
+            "name": "OiSoftware",
+            "homepage": "https://oisoftware.com.au"
         }
     ],
     "require": {
